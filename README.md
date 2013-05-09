@@ -13,8 +13,8 @@ Needs:
 
 ## TODO ##
 
-1) Fogginess (i.e., depth perception - this enables inhabitants of Flatland to distinguish the other's class from afar).
-2) Would be neat if I could restrict the legal mouse-movement of the user - i.e., to force the user to stay in 2D and turn off the Z-axis when moving.
-3) Add more different inhabitants
-4) also needs a reason why I did this
+1) Fogginess (i.e., depth perception - this enables inhabitants of Flatland to distinguish the other's class from afar).  
+2) Would be neat if I could restrict the legal mouse-movement of the user - i.e., to force the user to stay in 2D and turn off the Z-axis when moving.  
+3) Add more different inhabitants  
+4) also needs a reason why I did this  
 
