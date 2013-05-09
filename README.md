@@ -1,6 +1,6 @@
 ## Description ##
 
-A couple of scripts to help inhabitants of Spaceland imagine the two-dimensional world as described in [Edwin Abbott's Flatland] [1]. All view-points are initaliazed to the viewpoint of an inhabitant of Flatland.
+A couple of scripts to help inhabitants of Spaceland imagine the two-dimensional world as described in [Edwin Abbott's Flatland] [1]. All view-points are initialized to the viewpoint of an inhabitant of Flatland.
 
 [1]: https://en.wikipedia.org/wiki/Flatland
 
